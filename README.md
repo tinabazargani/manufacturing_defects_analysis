@@ -39,14 +39,14 @@ The analysis uses the following Python libraries:
 
 ## 📊 Notebook
 The analysis notebook is available here:  
-[notebooks/manufacturing_defects.ipynb]
-(notebooks/manufacturing_defects.ipynb)
+[manufacturing_defects_analysis.ipynb](notebooks/manufacturing_defects.ipynb)
+
 
 It includes:
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Visualization of defect types, severity, and cost patterns  
-- Optional predictive modeling for defect severity or cost  
+  
 
 
 
