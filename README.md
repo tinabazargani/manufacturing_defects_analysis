@@ -39,7 +39,8 @@ The analysis uses the following Python libraries:
 
 ## 📊 Notebook
 The analysis notebook is available here:  
-notebooks/manufacturing_defects.ipynb
+[notebooks/manufacturing_defects.ipynb]
+(notebooks/manufacturing_defects.ipynb)
 
 It includes:
 - Data cleaning and preprocessing  
